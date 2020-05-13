@@ -8,4 +8,4 @@ I've added CSS variables which you'll find at the top of the stylesheet — for 
 It uses [Inter](https://rsms.me/inter/) by which is a free typeface designed by [Rasmus Anderson](https://twitter.com/rsms)
 
 ![](./images/mcreaper.png)
-![](./images/mcreaper-splitpanel.png)
+![](./images/mcreaper-split-panel.png)
