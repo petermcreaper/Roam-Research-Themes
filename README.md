@@ -1,7 +1,7 @@
 # Roam Research Themes
-McReaper is a CSS Theme for Roam Research. 
+McReaper is a custom CSS Theme for [Roam Research](http://roamresearch.com). 
 
-It's based off Maggie Appleton's theme with a few tweaks.
+It's based off [Maggie Appleton](https://twitter.com/mappletons?lang=en)'s theme [Mappletons](https://github.com/theianjones/roam-research-themes/blob/master/mappletons.css) with a few tweaks.
 
 The colours can all be changed with CSS variables which you'll find at the top of the stylesheet. 
 
