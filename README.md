@@ -7,3 +7,4 @@ I've added CSS variables which you'll find at the top of the stylesheet.
 
 For example, you can change all of the link colours by changing the primary colour variable.
 
+It uses [Inter](https://rsms.me/inter/) by which is a free typeface designed by [Rasmus Anderson](https://twitter.com/rsms)
